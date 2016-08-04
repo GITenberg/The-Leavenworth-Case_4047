@@ -1,0 +1,44 @@
+_repo: The-Leavenworth-Case_4047
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Green, Anna Katharine
+    aliases:
+    - Rohlfs, Anna Katharine Green
+    - Rohlfs, Mrs. Charles
+    birthdate: 1846
+    deathdate: 1935
+    gutenberg_agent_id: '541'
+    url: http://www.gutenberg.org/2009/agents/541
+    wikipedia: http://en.wikipedia.org/wiki/Anna_Katharine_Green
+description: <b>The classic genre-defining whodunit, by the mother of the detective
+  novel </b> <br></br><br></br> Introducing the first American series detective, Ebenezer
+  Gryce, <i>The Leavenworth Case</i> was published nine years before the debut of
+  Sherlock Holmes, and made author Anna Katharine Green an enormously popular and
+  influential writer who changed the mystery genre forever. Showcasing Green's verve
+  and style, <i>The Leavenworth Case</i> opens with the shocking murder of Horatio
+  Leavenworth, a wealthy New York merchant, philanthropist, and well-known member
+  of the community. His favorite niece, Mary, is to inherit his fortune, and all of
+  the evidence seems to implicate her or her sister. Yet surprises greet Gryce at
+  every turn-even before the second murder.
+gutenberg_bookshelf: Detective Fiction
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4047'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sisters -- Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Police -- New York (State) -- New York -- Fiction'
+- !lcsh 'Merchants -- Crimes against -- Fiction'
+- !lcsh 'Lawyers -- United States -- Fiction'
+- !lcsh 'Murder -- Investigation -- Fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Leavenworth Case
+url: http://www.gutenberg.org/ebooks/4047
