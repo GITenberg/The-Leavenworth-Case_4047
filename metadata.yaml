@@ -1,5 +1,8 @@
 _repo: The-Leavenworth-Case_4047
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Green, Anna Katharine
@@ -21,6 +24,8 @@ description: <b>The classic genre-defining whodunit, by the mother of the detect
   of the community. His favorite niece, Mary, is to inherit his fortune, and all of
   the evidence seems to implicate her or her sister. Yet surprises greet Gryce at
   every turn-even before the second murder.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4047#The-Leavenworth-Case
 gutenberg_bookshelf: Detective Fiction
 gutenberg_issued: '2003-05-01'
 gutenberg_type: Text
